@@ -63,7 +63,7 @@
                             <span class="bold">Organ gun: </span>Awesome, but can’t take an engineer and blows up fairly regularly. Good for flank protection, knight killers, skirmisher slayers, solo-targets, artillery park guardians. Multi-role and effective. Often re-roll 2s, let 4s go (4 hits better than none, and only half the time will you get more). Always let 6s and up stand.
                         </li>
                         <li>
-                            <span class="bold">Bigger is always better: </span>lways step-up and steadfast and horde. Stop magic and stop artillery, and the negatives of big blocks will be negated. 25 - 40 GW Warrior, three rank blocks are choice.
+                            <span class="bold">Bigger is always better: </span>Always step-up and steadfast and horde. Stop magic and stop artillery, and the negatives of big blocks will be negated. 25 - 40 GW Warrior, three rank blocks are choice.
                         </li>
                         <li>
                             <span class="bold">Characters are secondary to just more great weapons. </span>Building combat characters is usually a bad idea.

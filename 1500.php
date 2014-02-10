@@ -102,7 +102,7 @@
 	    				</ul>
 	    			<span class="bold">Army Battle Standard: </span>+25 points<br>
 	    			
-	    			<h3>Great Weapon Warriors (10 pts/model x30 = 300 +25 = 325 pts)</h3>
+	    			<h3>Great Weapon Warriors (10 pts/model x39 = 390 +25 = 415 pts)</h3>
 	    			<table>
 	    				<tr>
 	    					<th>UNIT</th>
@@ -141,7 +141,7 @@
 	    					<li>Veteran +10 pts. Veterans have +1 A.</li>
 	    				</ul>
 	    				
-	    			<h3>Shield Warriors (9 pts/model x30 = 270 + 25 = 295 pts)</h3>
+	    			<h3>Shield Warriors (9 pts/model x20 = 180 + 25 = 205 pts)</h3>
 	    			<table>
 	    				<tr>
 	    					<th>UNIT</th>
@@ -311,12 +311,12 @@
 	    						<td>140 pts</td>
 	    					</tr>
 	    					<tr>
-	    						<th>Great Weapon Warriors x30</th>
-	    						<td>325 pts</td>
+	    						<th>Great Weapon Warriors x39</th>
+	    						<td>415 pts</td>
 	    					</tr>
 	    					<tr>
-	    						<th>Shield Warriors x30</th>
-	    						<td>295 pts</td>
+	    						<th>Shield Warriors x20</th>
+	    						<td>205 pts</td>
 	    					</tr>
 	    					<tr>
 	    						<th>Ranger Quarrellers x14</th>

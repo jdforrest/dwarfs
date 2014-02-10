@@ -841,6 +841,15 @@
 		    					<li>Work out hits at Strength 10. Wounding hits cause D3 wounds. No Armor Save allowed.</li>
 		    				</ol>
 		    			</div>
+		    			<div class="sidebox">
+		    				<h2>GRAPESHOT</h2>
+		    				<ul>
+		    					<li>12", Strength 5</li>
+		    					<li>Armor Piercing: additional -1 modifier to armor save.</li>
+		    					<li>Choose target, roll artillery dice to find out how many shots are fired. If misfire, D6 on Black Powder War Machine Misfire chart (pg 113).</li>
+		    					<li>Number on artillery is number fired, not hit, so then roll that number of dice to determine hits.</li>
+		    				</ul>
+		    			</div>
 		    		</div><!-- /col2of2 -->
 	    		</div><!-- / col wrapper -->	    		
 	    		<div class="units col1of2 left" id="mengineer">
